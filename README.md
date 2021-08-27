@@ -1,0 +1,2 @@
+# comerciopersonal
+Repositorio personal 
